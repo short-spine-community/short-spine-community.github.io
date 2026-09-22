@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://short-spine-community.github.io/sitemap.xml
